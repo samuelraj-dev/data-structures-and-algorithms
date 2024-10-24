@@ -1,18 +1,18 @@
 # DATA STRUCTURES & ALGORITHMS
 
 # Graphs
-   - [BREATH FIRST SEARCH (BFS)](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/graphs/BFS.py)
-   - [DEPTH FIRST SEARCH (DFS)](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/graphs/DFS.py)
-   - [HAS PATH](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/graphs/has_path.py)
+   - [Breath First Search (BFS)](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/graphs/BFS.py)
+   - [Depth First Search (DFS)](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/graphs/DFS.py)
+   - [Has Path](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/graphs/has_path.py)
 # Dynamic Programming
-   ## MEMOIZATION
-   - [Nth FIBONACCI ELEMENT](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/dynamic-programming/fibonacci_memo.py)
-   - [GRID TRAVELLER](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/dynamic-programming/grid_traveler_memo.py)
+   ## Memoization
+   - [Nth Fibonacci Element](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/dynamic-programming/fibonacci_memo.py)
+   - [Grid Traveller](https://github.com/samuelraj-dev/data-structures-and-algorithms/blob/main/dynamic-programming/grid_traveler_memo.py)
 # Sorting Algorithms
-   - [BUBBLE SORT](#sorting-algorithms)
-   - [SELECTION SORT](#sorting-algorithms)
-   - [INSERTION SORT](#sorting-algorithms)
-   - [CYCLE SORT](#sorting-algorithms)
-   - [MERGE SORT](#sorting-algorithms)
-   - [QUICK SORT](#sorting-algorithms)
-   - [HEAP SORT](#sorting-algorithms)
+   - [Bubble Sort](#sorting-algorithms)
+   - [Selection Sort](#sorting-algorithms)
+   - [Insertion Sort](#sorting-algorithms)
+   - [Cycle Sort](#sorting-algorithms)
+   - [Merge Sort](#sorting-algorithms)
+   - [Quick Sort](#sorting-algorithms)
+   - [Heap Sort](#sorting-algorithms)
